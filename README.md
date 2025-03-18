@@ -30,6 +30,6 @@
 ### 📫 Connect with Me:  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/juan-peralta-55456123a/)
   
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel)](your-portfolio-url)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel)](https://juan8834.github.io/)  
 
 
