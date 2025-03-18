@@ -28,7 +28,7 @@
 ---
 
 ### 📫 Connect with Me:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](your-linkedin-url)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](www.linkedin.com/in/juan-peralta-55456123a)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel)](your-portfolio-url)  
 
 
