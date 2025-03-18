@@ -1,11 +1,11 @@
-# Hi, I'm Juan! 👋  
+# Hi, My name is Juan! 👋  
 
 🚀 **Full Stack Developer | MERN | Next.js | Firebase | AWS**  
 
 - 🎓 Currently enrolled in **MIT xPRO Full Stack Development Program** (Graduating March 2025)  
 - 🔨 Building a **Financial Dashboard App** using **Next.js, NextAuth.js, and Neon Database**  
 - 💡 Passionate about **secure, scalable web applications** and **cloud technologies**  
-- 🛍️ **15+ years experience in Loss Prevention for Luxury Retailers**  
+- 🛍️ **15+ years experience in the Loss Prevention industry for Luxury Retailers**  
 
 ---
 
